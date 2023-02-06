@@ -1,0 +1,151 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1675667116782,1586,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-4,text,true,,578,0,7,7,https://market-final-project.herokuapp.com/auth/register,1586,0,0
+1675667116283,2358,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-3,text,true,,578,0,7,7,https://market-final-project.herokuapp.com/auth/register,2358,0,0
+1675667117283,1368,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-5,text,true,,578,0,7,7,https://market-final-project.herokuapp.com/auth/register,1368,0,0
+1675667115279,3568,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-1,text,true,,578,0,8,8,https://market-final-project.herokuapp.com/auth/register,3568,0,0
+1675667115779,3655,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-2,text,true,,578,0,9,9,https://market-final-project.herokuapp.com/auth/register,3655,0,0
+1675667118280,1278,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-7,text,true,,578,0,9,9,https://market-final-project.herokuapp.com/auth/register,1278,0,0
+1675667118370,1280,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-4,text,true,,505,412,9,9,https://market-final-project.herokuapp.com/auth/login,1280,0,898
+1675667119282,442,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-9,text,true,,578,0,9,9,https://market-final-project.herokuapp.com/auth/register,442,0,0
+1675667118644,1263,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-3,text,true,,505,412,10,10,https://market-final-project.herokuapp.com/auth/login,1263,0,890
+1675667118781,1205,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-8,text,true,,578,0,10,10,https://market-final-project.herokuapp.com/auth/register,1205,0,0
+1675667117783,2294,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-6,text,true,,578,0,10,10,https://market-final-project.herokuapp.com/auth/register,2294,0,0
+1675667119779,359,POST Register (Seller),201,Created,10 User 5 Second 1 Loop 1-10,text,true,,578,0,10,10,https://market-final-project.herokuapp.com/auth/register,359,0,0
+1675667118654,1523,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-5,text,true,,505,412,10,10,https://market-final-project.herokuapp.com/auth/login,1523,0,1091
+1675667118849,1520,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-1,text,true,,505,412,10,10,https://market-final-project.herokuapp.com/auth/login,1520,0,1095
+1675667119559,1252,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-7,text,true,,505,412,10,10,https://market-final-project.herokuapp.com/auth/login,1252,0,876
+1675667120177,661,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-5,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,661,0,0
+1675667119436,1539,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-2,text,true,,505,412,10,10,https://market-final-project.herokuapp.com/auth/login,1539,0,1098
+1675667120839,303,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-5,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,303,0,0
+1675667119726,1529,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-9,text,true,,505,412,10,10,https://market-final-project.herokuapp.com/auth/login,1529,0,1084
+1675667119651,1774,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-4,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,1774,0,0
+1675667120370,1129,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-1,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,1129,0,0
+1675667121143,372,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-5,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51010,372,0,0
+1675667121256,324,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-9,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,324,0,0
+1675667120080,1512,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-6,text,true,,505,412,10,10,https://market-final-project.herokuapp.com/auth/login,1512,0,1085
+1675667120812,896,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-7,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,896,0,0
+1675667119908,1812,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-3,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,1812,0,0
+1675667121426,324,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-4,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,324,0,0
+1675667120976,887,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-2,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,887,0,0
+1675667121500,396,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-1,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,396,0,0
+1675667121580,325,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-9,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,325,0,0
+1675667121522,448,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-5,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,448,0,0
+1675667121721,339,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-3,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,339,0,0
+1675667121751,309,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-4,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51011,309,0,0
+1675667121709,356,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-7,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,356,0,0
+1675667121863,312,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-2,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,312,0,0
+1675667120141,2162,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-10,text,true,,505,412,10,10,https://market-final-project.herokuapp.com/auth/login,2162,0,1799
+1675667121896,433,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-1,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51012,433,0,0
+1675667121905,428,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-9,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51013,428,0,0
+1675667122060,317,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-3,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51015,317,0,0
+1675667122065,320,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-7,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51014,320,0,0
+1675667121971,442,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-5,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,442,0,0
+1675667122060,428,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-4,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,428,0,0
+1675667122175,395,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-2,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51016,395,0,0
+1675667122333,372,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-9,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,372,0,0
+1675667122304,413,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-10,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,413,0,0
+1675667119987,2749,POST Login (Seller),201,Created,10 User 5 Second 1 Loop 1-8,text,true,,505,412,10,10,https://market-final-project.herokuapp.com/auth/login,2749,0,2307
+1675667122385,416,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-7,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,416,0,0
+1675667122330,567,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-1,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,567,0,0
+1675667122377,524,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-3,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,524,0,0
+1675667122488,496,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-4,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,496,0,0
+1675667122718,314,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-10,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,314,0,0
+1675667122736,326,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-8,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,326,0,0
+1675667122705,440,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-9,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,439,0,0
+1675667122801,372,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-7,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,372,0,0
+1675667122902,367,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-3,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,367,0,0
+1675667122898,454,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-1,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,454,0,0
+1675667123045,309,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-10,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51017,309,0,0
+1675667123063,340,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-8,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,340,0,0
+1675667122985,448,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-4,text,true,,1163,0,10,10,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,448,0,0
+1675667122570,984,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-2,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,984,0,0
+1675667123145,409,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-9,text,true,,1163,0,10,10,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,409,0,0
+1675667122414,1301,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-5,text,true,,1163,0,10,10,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,1301,0,0
+1675667123269,453,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-3,text,true,,1163,0,10,10,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,453,0,0
+1675667123173,549,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-7,text,true,,1163,0,10,10,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,549,0,0
+1675667123403,372,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-8,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51018,372,0,0
+1675667123434,351,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-4,text,true,,972,0,10,10,https://market-final-project.herokuapp.com/buyer/product/711,351,0,0
+1675667121592,2219,POST Seller Product,201,Created,10 User 5 Second 1 Loop 1-6,text,true,,698,0,10,10,https://market-final-project.herokuapp.com/seller/product,2219,0,0
+1675667123558,295,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-9,text,true,,972,0,10,10,https://market-final-project.herokuapp.com/buyer/product/711,295,0,0
+1675667123559,443,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-2,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,443,0,0
+1675667123716,287,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-5,text,true,,972,0,10,10,https://market-final-project.herokuapp.com/buyer/product/711,287,0,0
+1675667123723,287,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-3,text,true,,972,0,10,10,https://market-final-project.herokuapp.com/buyer/product/711,287,0,0
+1675667123723,358,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-7,text,true,,972,0,10,10,https://market-final-project.herokuapp.com/buyer/product/711,358,0,0
+1675667123776,357,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-8,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,357,0,0
+1675667123786,363,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-4,text,true,,694,665,10,10,https://market-final-project.herokuapp.com/buyer/order,363,0,0
+1675667123812,374,GET Seller Product,200,OK,10 User 5 Second 1 Loop 1-6,text,true,,739,0,10,10,https://market-final-project.herokuapp.com/seller/product,374,0,0
+1675667123854,376,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-9,text,true,,694,665,10,10,https://market-final-project.herokuapp.com/buyer/order,376,0,0
+1675667124011,327,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-3,text,true,,694,665,10,10,https://market-final-project.herokuapp.com/buyer/order,327,0,0
+1675667124003,360,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-2,text,true,,1163,0,10,10,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,360,0,0
+1675667124005,375,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-5,text,true,,694,665,10,10,https://market-final-project.herokuapp.com/buyer/order,375,0,0
+1675667124084,307,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-7,text,true,,694,665,10,10,https://market-final-project.herokuapp.com/buyer/order,307,0,0
+1675667124150,291,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-4,text,true,,1227,590,10,10,https://market-final-project.herokuapp.com/buyer/order,291,0,0
+1675667124135,448,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-8,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,448,0,0
+1675667124187,450,GET Seller Product id,200,OK,10 User 5 Second 1 Loop 1-6,text,true,,737,599,10,10,https://market-final-project.herokuapp.com/seller/product/51019,450,0,0
+1675667124230,407,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-9,text,true,,1227,590,10,10,https://market-final-project.herokuapp.com/buyer/order,407,0,0
+1675667124338,327,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-3,text,true,,1227,590,10,10,https://market-final-project.herokuapp.com/buyer/order,327,0,0
+1675667123352,1321,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-1,text,true,,1163,0,10,10,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,1321,0,0
+1675667124392,310,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-7,text,true,,1227,590,10,10,https://market-final-project.herokuapp.com/buyer/order,310,0,0
+1675667124364,348,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-2,text,true,,972,0,10,10,https://market-final-project.herokuapp.com/buyer/product/711,348,0,0
+1675667124441,305,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-4,text,true,,1225,596,10,10,https://market-final-project.herokuapp.com/buyer/order/20904,305,0,0
+1675667124381,368,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-5,text,true,,1227,590,10,10,https://market-final-project.herokuapp.com/buyer/order,368,0,0
+1675667123354,1501,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-10,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,1501,0,0
+1675667124673,296,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-1,text,true,,972,0,10,10,https://market-final-project.herokuapp.com/buyer/product/711,296,0,0
+1675667124618,409,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-8,text,true,,1163,0,10,10,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,409,0,0
+1675667124638,390,POST Register (Buyer),201,Created,10 User 5 Second 1 Loop 1-6,text,true,,587,0,10,10,https://market-final-project.herokuapp.com/auth/register,390,0,0
+1675667124666,394,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-3,text,true,,1225,596,10,10,https://market-final-project.herokuapp.com/buyer/order/20906,394,0,0
+1675667124639,426,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-9,text,true,,1225,596,10,10,https://market-final-project.herokuapp.com/buyer/order/20905,426,0,0
+1675667124746,339,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-4,text,true,,690,645,10,10,https://market-final-project.herokuapp.com/buyer/order/20904,339,0,0
+1675667124703,382,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-7,text,true,,1225,596,10,10,https://market-final-project.herokuapp.com/buyer/order/20908,381,0,0
+1675667124713,400,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-2,text,true,,694,665,10,10,https://market-final-project.herokuapp.com/buyer/order,400,0,0
+1675667124749,376,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-5,text,true,,1225,596,10,10,https://market-final-project.herokuapp.com/buyer/order/20907,375,0,0
+1675667124856,357,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-10,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,357,0,0
+1675667125027,309,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-8,text,true,,972,0,10,10,https://market-final-project.herokuapp.com/buyer/product/711,309,0,0
+1675667124970,384,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-1,text,true,,694,665,10,10,https://market-final-project.herokuapp.com/buyer/order,384,0,0
+1675667125062,315,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-3,text,true,,690,645,10,10,https://market-final-project.herokuapp.com/buyer/order/20906,315,0,0
+1675667125112,322,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-7,text,true,,690,645,10,10,https://market-final-project.herokuapp.com/buyer/order/20908,322,0,0
+1675667125032,426,POST Login (Buyer),201,Created,10 User 5 Second 1 Loop 1-6,text,true,,506,676,10,10,https://market-final-project.herokuapp.com/auth/login,426,0,0
+1675667125112,392,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-4,text,true,,330,618,10,10,https://market-final-project.herokuapp.com/buyer/order/20904,392,0,0
+1675667125113,393,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-2,text,true,,1227,590,10,10,https://market-final-project.herokuapp.com/buyer/order,393,0,0
+1675667125066,451,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-9,text,true,,690,645,10,10,https://market-final-project.herokuapp.com/buyer/order/20905,451,0,0
+1675667125125,394,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-5,text,true,,690,645,10,10,https://market-final-project.herokuapp.com/buyer/order/20907,394,0,0
+1675667125214,400,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-10,text,true,,1163,0,10,10,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,400,0,0
+1675667125379,305,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-3,text,true,,330,618,10,10,https://market-final-project.herokuapp.com/buyer/order/20906,305,0,0
+1675667125354,376,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-1,text,true,,1227,590,10,10,https://market-final-project.herokuapp.com/buyer/order,376,0,0
+1675667125337,393,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-8,text,true,,694,665,10,10,https://market-final-project.herokuapp.com/buyer/order,393,0,0
+1675667125434,308,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-7,text,true,,330,618,10,10,https://market-final-project.herokuapp.com/buyer/order/20908,308,0,0
+1675667125504,306,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-4,text,true,,322,621,10,10,https://market-final-project.herokuapp.com/seller/product/51011,306,0,0
+1675667125458,357,GET Buyer Product,200,OK,10 User 5 Second 1 Loop 1-6,text,true,,1163,0,9,9,https://market-final-project.herokuapp.com/buyer/product?status=available&page=3&per_page=2,357,0,0
+1675667125506,384,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-2,text,true,,1225,596,9,9,https://market-final-project.herokuapp.com/buyer/order/20909,384,0,0
+1675667125519,371,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-5,text,true,,330,618,9,9,https://market-final-project.herokuapp.com/buyer/order/20907,371,0,0
+1675667125517,383,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-9,text,true,,330,618,9,9,https://market-final-project.herokuapp.com/buyer/order/20905,383,0,0
+1675667125685,294,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-3,text,true,,322,621,9,9,https://market-final-project.herokuapp.com/seller/product/51015,294,0,0
+1675667125643,350,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-10,text,true,,972,0,8,8,https://market-final-project.herokuapp.com/buyer/product/711,350,0,0
+1675667125742,306,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-7,text,true,,322,621,8,8,https://market-final-project.herokuapp.com/seller/product/51014,306,0,0
+1675667125816,287,GET Buyer Product id,200,OK,10 User 5 Second 1 Loop 1-6,text,true,,972,0,7,7,https://market-final-project.herokuapp.com/buyer/product/711,287,0,0
+1675667125731,379,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-8,text,true,,1227,590,7,7,https://market-final-project.herokuapp.com/buyer/order,379,0,0
+1675667125730,369,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-1,text,true,,1225,596,7,7,https://market-final-project.herokuapp.com/buyer/order/20910,369,0,0
+1675667125890,397,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-5,text,true,,322,621,7,7,https://market-final-project.herokuapp.com/seller/product/51010,397,0,0
+1675667125900,393,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-9,text,true,,322,621,6,6,https://market-final-project.herokuapp.com/seller/product/51013,393,0,0
+1675667125890,404,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-2,text,true,,690,645,6,6,https://market-final-project.herokuapp.com/buyer/order/20909,404,0,0
+1675667125993,312,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-10,text,true,,694,665,5,5,https://market-final-project.herokuapp.com/buyer/order,312,0,0
+1675667126145,437,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-1,text,true,,690,645,5,5,https://market-final-project.herokuapp.com/buyer/order/20910,437,0,0
+1675667126145,437,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-8,text,true,,1225,596,5,5,https://market-final-project.herokuapp.com/buyer/order/20911,437,0,0
+1675667126145,437,POST Buyer Order,201,Created,10 User 5 Second 1 Loop 1-6,text,true,,694,665,5,5,https://market-final-project.herokuapp.com/buyer/order,437,0,0
+1675667126306,299,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-10,text,true,,1227,590,5,5,https://market-final-project.herokuapp.com/buyer/order,299,0,0
+1675667126294,391,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-2,text,true,,330,618,5,5,https://market-final-project.herokuapp.com/buyer/order/20909,391,0,0
+1675667126583,411,GET Buyer Order,200,OK,10 User 5 Second 1 Loop 1-6,text,true,,1227,590,5,5,https://market-final-project.herokuapp.com/buyer/order,411,0,0
+1675667126583,411,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-8,text,true,,690,645,5,5,https://market-final-project.herokuapp.com/buyer/order/20911,411,0,0
+1675667126583,411,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-1,text,true,,330,618,5,5,https://market-final-project.herokuapp.com/buyer/order/20910,411,0,0
+1675667126685,387,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-2,text,true,,322,621,5,5,https://market-final-project.herokuapp.com/seller/product/51016,387,0,0
+1675667126994,391,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-1,text,true,,322,621,4,4,https://market-final-project.herokuapp.com/seller/product/51012,391,0,0
+1675667126994,391,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-8,text,true,,330,618,4,4,https://market-final-project.herokuapp.com/buyer/order/20911,391,0,0
+1675667126995,390,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-6,text,true,,1225,596,4,4,https://market-final-project.herokuapp.com/buyer/order/20913,390,0,0
+1675667126606,917,GET Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-10,text,true,,1225,596,3,3,https://market-final-project.herokuapp.com/buyer/order/20912,917,0,0
+1675667127386,369,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-6,text,true,,690,645,3,3,https://market-final-project.herokuapp.com/buyer/order/20913,369,0,0
+1675667127386,383,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-8,text,true,,322,621,3,3,https://market-final-project.herokuapp.com/seller/product/51018,383,0,0
+1675667127524,301,PUT Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-10,text,true,,690,645,2,2,https://market-final-project.herokuapp.com/buyer/order/20912,301,0,0
+1675667127826,375,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-10,text,true,,330,618,2,2,https://market-final-project.herokuapp.com/buyer/order/20912,375,0,0
+1675667128203,306,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-10,text,true,,322,621,2,2,https://market-final-project.herokuapp.com/seller/product/51017,306,0,0
+1675667127755,997,DELETE Buyer Order id,200,OK,10 User 5 Second 1 Loop 1-6,text,true,,330,618,1,1,https://market-final-project.herokuapp.com/buyer/order/20913,997,0,0
+1675667128752,389,DELETE Seller Product id,200,OK,10 User 5 Second 1 Loop 1-6,text,true,,322,621,1,1,https://market-final-project.herokuapp.com/seller/product/51019,389,0,0
